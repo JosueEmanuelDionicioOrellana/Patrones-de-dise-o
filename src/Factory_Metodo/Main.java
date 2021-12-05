@@ -15,6 +15,9 @@ public class Main {
 			dialogo = new DialogoWindows();
 		}
 		
+		
+		//se hizo una confirmacion para crear el boton y devolver el modelo sin saber que objeto fue llamado 
+		
 		System.out.print(dialogo.crearBoton().getModelo());
 	}
 

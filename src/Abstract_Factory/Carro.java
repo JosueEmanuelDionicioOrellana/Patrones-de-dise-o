@@ -1,6 +1,6 @@
 package Abstract_Factory;
 
-public class Carro {
+public abstract class Carro {
 	String modelo;
 	String color;
 	
