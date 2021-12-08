@@ -1,17 +1,24 @@
 # Patrones-de-disenio
 
-==========================================Patrones==================================
+=========================================Patrones========================================
+
 Todos los patrones de diseño desde los creacionales,estructurales y de comportamiento con sus respectivos diagramas  realizado en Java
 
-*Creacionales
+
+
+
+----------------------------------------------------------------------Creacionales-------------------------------------------------------------------
 
 -Factory Method
+
 -Abstract Factory
+
 -Builder
+
 -Prototype
+
 -Singlenton
 
-==========================================Diagramas==================================
+==========================================Diagramas======================================
 
-
-Estan ubicados en la carpeta llamada Diagrams 
+-Están ubicados en la carpeta llamada Diagrams 
