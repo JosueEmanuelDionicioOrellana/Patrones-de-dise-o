@@ -1,13 +1,13 @@
 # Patrones-de-disenio
 
-=========================================Patrones========================================
+=================================Patrones====================================
 
 Todos los patrones de diseño de acuerdo con el libro "Sumergete en los patrones de diseño" desde los creacionales,estructurales y de comportamiento con sus respectivos diagramas  realizado en Java
 
 
 
 
-----------------------------------------------------------------------Creacionales-------------------------------------------------------------------
+------------------------------------------------------------Creacionales-------------------------------------------------------
 
 -Factory Method
 
@@ -20,7 +20,7 @@ Todos los patrones de diseño de acuerdo con el libro "Sumergete en los patrones
 -Singlenton
 
 
-----------------------------------------------------------------------Estructurales-------------------------------------------------------------------
+-------------------------------------------------------------Estructurales------------------------------------------------------
 
 -Adapter
 
@@ -31,6 +31,6 @@ Todos los patrones de diseño de acuerdo con el libro "Sumergete en los patrones
 -Decorator
 
 
-==========================================Diagramas======================================
+=====================================Diagramas============================
 
 -Están ubicados en la carpeta llamada Diagrams 
