@@ -19,7 +19,6 @@ public class Main {
 		if(respuesta==1) {
 			
 			//solo se debe instanciar una vez, sin acceso a las demas subclases
-			
 			fachada.comprar();
 		}
 		if(respuesta==2) {
