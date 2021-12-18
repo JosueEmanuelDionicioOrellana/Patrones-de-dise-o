@@ -24,6 +24,13 @@ Todos los patrones de diseño de acuerdo con el libro "Sumergete en los patrones
 
 -Adapter
 
+-Bridge
+
+-Composite(sin terminar)
+
+-Decorator
+
+
 ==========================================Diagramas======================================
 
 -Están ubicados en la carpeta llamada Diagrams 
